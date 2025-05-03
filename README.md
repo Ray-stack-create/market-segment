@@ -16,7 +16,7 @@ The objective of this analysis is to:
 
 ## 📁 Files Included
 
-- `mcdonalds_segmentation.ipynb` – Jupyter Notebook containing the full segmentation workflow in Python.
+- `M_Donalds.ipynb` – Jupyter Notebook containing the full segmentation workflow in Python.
 - `mcdonalds.csv` – Dataset with customer responses originally used in an R-based case study.
 
 ---
@@ -44,7 +44,3 @@ The objective of this analysis is to:
 - `matplotlib`
 - `seaborn`
 
-You can install them using:
-
-```bash
-pip install -r requirements.txt
